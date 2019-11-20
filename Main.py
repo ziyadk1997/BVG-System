@@ -37,6 +37,65 @@ class Graph:
 	def __init__(self): 
 		# default dictionary to store graph 
 		self.graph = defaultdict(Node) 
+	#DFS Traversal 
+	def DFS(self,startNode,goalNode): 
+		expandedNodes = 0
+		startTimeDFS = time.time()
+		# Create a stack for DFS 
+		stack = [] 
+		#push first startNode to start traversing DFS
+		self.graph[startNode].visited = True
+		stack.append(startNode)
+		# Initialize goal Node
+		goal = Node(-1)
+        # traversing the stack until its empty
+		while stack: 
+			expandedNodes+=1
+			# pop an element
+			currentNode = stack.pop()
+			# check if it is a goal if it is break from the loop goal found
+			if int(goalNode) == int(currentNode):
+				goal = self.graph[currentNode]
+				break
+			# Get possible Moves for current Node
+			possibleMovesArray = self.graph[currentNode].possibleMoves
+			#push every possible move if not visited before
+			for possibleMove in possibleMovesArray:
+				if self.graph[possibleMove].visited == False: 
+					self.graph[possibleMove].parentNode = self.graph[currentNode]
+					stack.append(possibleMove) 
+					self.graph[possibleMove].visited = True
+		#If Goal Found
+		if not(goal.id ==-1):
+			path = []
+			#Tranverse Parents of Goal Node till start Node is reached and print path
+			while not (goal is None):
+				#print(goal.id)
+				path.insert(0,goal)
+				goal = goal.parentNode
+			currentUbahnLine = path[0].Us[0]
+			drive1 = path[0].id
+			drive2 = path[0].id
+			costOfTrip = 0
+			for i in range(0,len(path)-1):
+				if(path[i+1].Us.__contains__(currentUbahnLine)):
+					costOfTrip+=path[i].possibleMovesCost[path[i].possibleMoves.index(path[i+1].id)]
+					drive2 = path[i+1].id
+					if i == len(path)-2:
+						if currentUbahnLine == 10:
+							currentUbahnLine= 55
+						print("Ride U"+str(currentUbahnLine)+" from : "+str(allStations[drive1]+" to : "+ str(allStations[drive2])))
+				else:
+					costOfTrip +=5
+					print("Ride U"+str(currentUbahnLine)+" from : "+str(allStations[drive1]+" to : "+ str(allStations[drive2])))
+					drive1 = drive2
+					drive2 = path[i+1].id
+					commonUbahnLine = set(path[i].Us).intersection(path[i+1].Us).pop()
+					print("Switch from U"+str(currentUbahnLine)+" To U"+str(commonUbahnLine))
+					currentUbahnLine = commonUbahnLine
+			print("Cost of Trip is :" + str(costOfTrip))
+		print("DFS searching time is " + str(time.time()-startTimeDFS))
+		print("Expanded Nodes : " + str(expandedNodes))
 	#Greedy Traversal
 	def Greedy(self,startNode,goalNode):
 		expandedNodes = 0
