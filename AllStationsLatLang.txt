@@ -1,0 +1,173 @@
+U Uhlandstr,52.5029,13.3263
+U Kurfürstendamm,52.5036,13.3311
+U Wittenbergplatz,52.5018,13.3430
+U Nollendorfplatz,52.4994,13.3545
+U Kurfürstenstr.,52.4998,13.3628
+U Gleisdreieck,52.4996,13.3743
+U Möckernbrücke,52.4991,13.3827
+U Hallesches Tor,52.4978,13.3908 
+U Prinzenstr.,52.4984,13.4059
+U Kottbusser Tor,52.4990,13.4183 
+U Görlitzer Bahnhof,52.4993,13.4279
+U Schlesisches Tor,52.5009,13.4415
+U Warschauer Str.,52.5050,13.4491
+U Ruhleben,52.5256,13.2412
+U Olympia-Stadion,52.5173,13.2500
+U Neu-Westend,52.5163,13.2602
+U Theodor-Heuss-Platz,52.5099,13.2726
+U Kaiserdamm,52.5099,13.2819
+U Sophie-Charlotte-Platz,52.5109,13.2954
+U Bismarckstr.,52.5116,13.3052
+U Deutsche Oper,52.5119,13.3094
+U Ernst-Reuter-Platz,52.5115,13.3222
+S+U Zoologischer Garten Bhf,52.5073,13.3324
+U Bülowstr.,52.4976,13.3634
+U Mendelssohn-Bartholdy-Park,52.5034,13.3748
+S+U Potsdamer Platz (Bln) [U2],52.5095,13.3788
+U Mohrenstr.,52.5118,13.3852
+U Stadtmitte,52.5122,13.3907
+U Hausvogteiplatz,52.5134,13.3956
+U Spittelmarkt,52.5113,13.4050
+U Märkisches Museum,52.5127,13.4112
+U Klosterstr.,52.5180,13.4120
+U Alexanderplatz,52.5204,13.4144
+U Rosa-Luxemburg-Platz,52.5279,13.4104
+U Senefelderplatz,52.5318,13.4126
+U Eberswalder Str.,52.5417,13.4122
+S+U Schönhauser Allee,52.5493,13.4137
+U Vinetastr.,52.5594,13.4133
+U Pankow,52.5664,13.4105
+U-Bahnhof-Krumme-Lanke,52.4435,13.2414
+U Onkel Toms Hütte,52.4499,13.2531 
+U Oskar-Helene-Heim,52.4503,13.2698
+U Freie Universität (Thielplatz),52.4510,13.2817
+U Dahlem-Dorf,52.4577,13.2900
+U Podbielskiallee,52.4644,13.2964
+U Breitenbachplatz,52.4673,13.3094
+U Rüdesheimer Platz,52.4735,13.3144
+S+U Heidelberger Platz,52.4802,13.3119
+U Fehrbelliner Platz,52.4904,13.3142
+U Hohenzollernplatz,52.4941,13.3248
+U Spichernstr.,52.4966,13.3311
+U Augsburger Str.,52.5003,13.3365
+S+U Innsbrucker Platz,52.4781,13.3421
+U Rathaus Schöneberg,52.4836,13.3418
+U Bayerischer Platz,52.4884,13.3402
+U Viktoria-Luise-Platz,52.4963,13.3436
+U Schillingstr,52.5208,13.4210
+U Strausberger Platz,52.5181,13.4317
+U Weberwiese,52.5166,13.4432
+U Frankfurter Tor,52.5158,13.4540
+U Samariterstr,52.5148,13.4644
+S+U Frankfurter Allee,52.5137,13.4750
+U Magdalenenstr,52.5124,13.4874
+S+U Lichtenberg,52.5096,13.4973
+U Friedrichsfelde,52.5058,13.5134
+U Tierpark,52.4969,13.5235
+U Biesdorf-Sud,52.4996,13.5465
+U Elsterwerdaer Platz,52.5056,13.5615
+S+U Wuhletal,52.5127,13.5752
+U Kaulsdorf-Nord,52.5210,13.5889
+U Kienberg (Garten der Welt),52.5292,13.5910
+U Cottbusser Platz,52.5339,13.5965
+U Hellersdorf,52.5229,13.5766
+U Louis-Lewin-Str.,52.5390,13.6184
+U Honow,52.5382,13.6344
+U Alt-Tegel,52.5895,13.2837
+U Borsigwerke,52.5829,13.2896
+U Holzhauser Str.,52.5762,13.2956
+U Otisstr.,52.5711,13.3029
+U Scharnweberstr.,52.5669,13.3122
+U Kurt-Schumacher-Platz,52.5634,13.3269
+U Afrikanische Str.,52.5605,13.3343
+U Rehberge,52.5563,13.3417
+U Seestr.,52.5503,13.3524
+U Leopoldplatz,52.5463,13.3590
+S+U Wedding,52.5426,13.3666
+U Reinickendorfer Str,52.540515,13.369878
+U Schwartzkopffstr.,52.5359,13.3766
+U Naturkundemuseum,52.5313,13.3822 
+U Oranienburger Tor,52.5255,13.3874
+S+U Friedrichstr. Bhf,52.5200,13.3883
+U Französische Str,52.5143,13.3893 
+U Kochstr./Checkpoint Charlie,52.5065,13.3905
+U Mehringdamm,52.4947,13.3890
+U Platz der Luftbrücke,52.4835,13.3865
+U Paradestr,52.4782,13.3858
+S+U Tempelhof,52.4709,13.3846
+U Alt-Tempelhof,52.4659,13.3856
+U Kaiserin-Augusta-Str,52.4604,13.3848
+U Ullsteinstr,52.4528,13.3841
+U Westphalweg,52.4456,13.3853
+U Alt-Mariendorf,52.4404,13.3880
+S+U Rathaus Spandau,52.5347,13.1992
+U Altstadt Spandau,52.5390,13.2056 
+U Zitadelle,52.5386,13.2140 
+U Haselhorst,52.5391,13.2337 
+U Paulsternstr,52.5381,13.2486
+U Rohrdamm,52.5369,13.2612
+U Siemensdamm,52.5368,13.2732
+U Halemweg,52.5366,13.2863
+U Jakob-Kaiser-Platz,52.536670,13.294053
+S+U Jungfernheide Bhf,52.530882,13.300382
+U Mierendorffplatz,52.5258,13.3053 
+U Richard-Wagner-Platz,52.5173,13.3066
+U Wilmersdorfer Str,52.5057,13.3070
+U Adenauerplatz,52.5000,13.3071 
+U Konstanzer Str,52.4940,13.3100 
+U Blissestr,52.4861,13.3203
+U Berliner Str,52.4872,13.3314 
+U Eisenacher Str,52.4895,13.3503
+U Kleistpark,52.4904,13.3603
+S+U Yorckstr,52.4928,13.3704
+U Gneisenaustr,52.4913,13.3958
+U Südstern,52.4893,13.4077
+U Hermannplatz,52.4866,13.4245
+U Rathaus Neukölln,52.4816,13.4343 
+U Karl-Marx-Str,52.4765,13.4392
+S+U Neukölln,52.4695,13.4421
+U Grenzallee,52.4639,13.4455
+U Blaschkoallee,52.4527,13.4490
+U Parchimer Allee,52.4448,13.4497
+U Britz-Süd,52.4373,13.4484
+U Johannisthaler Chaussee,52.4294,13.4533
+U Lipschitzallee,52.4247,13.4625
+U Wutzkyallee,52.4257,13.4740
+U Zwickauer Damm,52.4233,13.4837 
+U Rudow,52.4162,13.4953
+S+U Wittenau,52.5963,13.3356
+U Rathaus Reinickendorf,52.5884,13.3248
+S+U Karl-Bonhoeffer-Nervenklinik,52.5789,13.3332 
+U Lindauer Allee,52.5755,13.3391 
+U Paracelsus-Bad,52.5746,13.3472
+U Residenzstr,52.5712,13.3605
+U Franz-Neumann-Platz,52.5641,13.3642 
+U Osloer Str,52.5568,13.3733
+U Pankstr,52.5525,13.3818
+S+U Gesundbrunnen Bhf,52.548916,13.388954
+U Voltastr,52.5421,13.3930
+U Bernauer Str,52.5381,13.3962 
+U Rosenthaler Platz,52.5297,13.4014
+U Weinmeisterstr,52.5255,13.4050
+S+U Jannowitzbrücke,52.5142,13.4196
+U Heinrich-Heine-Str,52.5109,13.4162 
+U Moritzplatz,52.5036,13.4108 
+U Schönleinstr,52.4933,13.4217
+U Boddinstr,52.4807,13.4249
+U Leinestr,52.4736,13.4280
+S+U Hermannstr,52.4674,13.4314 
+S+U Rathaus Steglitz,52.4556,13.3226
+U Schloßstr,52.4612,13.3248
+U Walther-Schreiber-Platz,52.4662,13.3283
+U Friedrich-Wilhelm-Platz,52.4714,13.3282 
+S+U Bundesplatz,52.4776,13.3291 
+U Güntzelstr,52.4920,13.3309
+U Hansaplatz,52.5183,13.3416
+U Turmstr,52.5254,13.3412
+U Birkenstr,52.5323,13.3414
+S+U Westhafen,52.5362,13.3441
+U Amrumer Str,52.5422,13.3495
+U Nauener Platz,52.5516,13.3673
+U Brandenburger-Tor,52.5165,13.3817 
+U Bundestag,52.5202,13.3730 
+U Berlin-Hauptbahnof,52.5248,13.3697 
