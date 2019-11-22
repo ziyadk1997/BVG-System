@@ -140,7 +140,7 @@ class Graph:
         # traversing the stack until its empty
 		while stack: 
 			for node in stack:
-				print(allStations[node.id],end = "")
+				print(allStations[node],end = "")
 			print("   /// Stack State ")
 			expandedNodes+=1
 			# pop an element
@@ -203,7 +203,7 @@ class Graph:
         # traversing the queue until its empty
 		while queue: 
 			for node in queue:
-				print(allStations[node.id],end = "")
+				print(allStations[node],end = "")
 			print("   /// Queue State ")
 			expandedNodes+=1
 			# Dequeue an element
@@ -289,4 +289,4 @@ for j in range(0,len(allStations)):
 	g.graph[j] = stationNode
 print("Creating Graph Time is " + str(time.time()-startTimeGraph))
 #DEBUGGING
-g.Greedy(0,100)
+g.DFS(0,100)
