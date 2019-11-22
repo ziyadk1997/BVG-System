@@ -86,7 +86,8 @@ class Graph:
 					dlat = lat2 - lat1
 					a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
 					c = 2 * atan2(sqrt(a), sqrt(1 - a))
-					self.graph[possibleMove].heuristic = R * c
+					#average speed being 30.2 of the UBAN to change from distance to time divide by average speed * 2 to make sure its never more than the actual cost
+					self.graph[possibleMove].heuristic = ((R * c)/60.4)
 					self.graph[possibleMove].parentNode = self.graph[currentNode.id]
 					list.append(self.graph[possibleMove]) 
 					self.graph[possibleMove].visited = True
